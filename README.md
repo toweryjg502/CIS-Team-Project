@@ -46,4 +46,4 @@ A Python-based GUI application designed to parse unstructured court text documen
 
 ## Credits
 
-* **Co-written with https://github.com/Toweryjg**
+* **Co-written with https://github.com/Toweryjg502**
